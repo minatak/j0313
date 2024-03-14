@@ -1,4 +1,4 @@
-package api5_wrapper.숙제;
+package a0_exam.숙제_0313;
 
 import java.util.Scanner;
 
