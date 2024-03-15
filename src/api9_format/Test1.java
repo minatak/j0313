@@ -41,7 +41,7 @@ public class Test1 {
 		df = new DecimalFormat("@@@@@@@@@.0");
 		System.out.println("9: " + df.format(su));
 		
-		double su2 = 0.9576;
+		double su2 = 0.9576; 
 		df = new DecimalFormat("0.0%");
 		System.out.println("10: " + df.format(su2));
 		
