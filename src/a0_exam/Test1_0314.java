@@ -67,14 +67,14 @@ public class Test1_0314 {
 				if (j==1) {
 					String dateString = list[i][j];
 					dateString = dateString.substring(0, 4);
-					if(dateString.isBefore(targetDateTime))
+//					if(dateString.isBefore(targetDateTime))
 				}
 			}
 		}
 //		DateTimeFormatter date = dateString;
 		
 		System.out.println("*등록일이 1년 이상 경과한 회원들의 명단*");
-		if(dateString.)
+//		if(dateString.)
 //		System.out.println("isBefore() : " + date.isBefore(targetDateTime));
 	}
 }
